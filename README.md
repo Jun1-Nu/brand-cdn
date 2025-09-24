@@ -1,1 +1,1 @@
-# brand-cdn）
+# brand-cdn
